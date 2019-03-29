@@ -1,2 +1,2 @@
 # hello-world
-babys-first-repository
+baby's first repository
